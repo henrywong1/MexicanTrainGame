@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\henry\source\repos\project 3 - mexican train!\project 3 - mexican train!\main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Playertrain.cpp
+  Project 3 - Mexican Train!.vcxproj -> C:\Users\henry\source\repos\Project 3 - Mexican Train!\Debug\Project 3 - Mexican Train!.exe
